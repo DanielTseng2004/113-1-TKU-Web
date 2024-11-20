@@ -1,4 +1,4 @@
-const age: number = 25;
+let age: number = 25;
 let Name: string = "Alice";
 
 age = 18;
