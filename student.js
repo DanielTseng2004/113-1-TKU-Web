@@ -34,4 +34,4 @@ const collectionName = "studentslist";
     } catch (error) {
         console.error("發生錯誤：", error);
     }
-})
+})();
